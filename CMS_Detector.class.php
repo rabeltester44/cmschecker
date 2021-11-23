@@ -1,5 +1,5 @@
 <?php
-// developed by Red V!per
+// developed by Reapers
 class CMS_Detector
 {
 	public static function process($data)
