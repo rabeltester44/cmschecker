@@ -1,9 +1,8 @@
 #!/bin/bash
 # Mass CMS Detector
-# Coded by : Red V!per <Behnam Vanda>
-# E-Mail: beni.vanda@gmail.com
-# Telegram id : @witchking
-# Red Hat Hackers Channel : https://telegram.me/redhats
+# Coded by : Reapers 
+# E-Mail: figopaing605@gmail.com
+# Telegram id : @paing
 # 
 
 FILE=$1
