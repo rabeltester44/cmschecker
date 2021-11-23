@@ -8,6 +8,15 @@ if (isset($argv)) {
     $url = $argv[1];
 }
 
+$opts = array('http' =>
+    array(
+        'method'  => 'GET',
+        'timeout' => 10 
+         )
+);
+
+
+
 $context=stream_context_create($opts);
 
 $content=file_get_contents($url, false, $context);
